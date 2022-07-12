@@ -1,0 +1,197 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	
+	background-color: #0099cc;
+	background-image: url("bg_gradiente.gif");
+	background-repeat: repeat-x;
+}
+div.Um{
+	width: 1000px; 
+	height: 20px;
+	background-color: #0099cc;
+
+}
+div.Dois{	
+	width: 800px; 
+	float: left;
+	height: 190px;
+	background-color: #E6E6E6;
+}
+div.logo{	
+	width: 200px; 
+	float: left;
+	height: 190px;
+	background-color: #E6E6E6;
+
+}
+div.tres{
+	width: 1000px; 
+	float: left;
+	height: 20px;
+	background-image: url("fundo.gif");
+}
+div.caixa{
+	width: 1000px; 
+	float: left;
+	height: 340px;
+	background-color: #FFFFFF;
+	box-shadow: 0px 5px 10px #000;
+}
+div.quatro{
+	width: 333px; 
+	float: left;
+	background-color: #FFFFFF;
+	position: relative;
+	top: 22px;
+
+}
+div.cinco{
+	width: 333.3px; 
+	float: left;
+	background-image: url("bg_contenteudo.gif");
+	position: relative;
+	top: 22px;
+}
+div.seis{
+	width: 333.3px; 
+	float: left;
+	background-image: url("bg_contenteudo.gif");
+	position: relative;
+	top: 22px;
+}
+div.sete{
+	width: 999,9px; 
+	float: left;
+	height: 30px;
+	background-image: url("rodape_contenteudo.gif");
+	position: relative;
+	top: 22px;	
+}
+div.rodape p{
+	clear: both;
+	text-align: center;
+
+}
+div.contanier{
+	width: 1000px;
+	margin: 0 auto;
+}
+ul.menu-h-dd{
+	list-style: none;
+	font-size: 20px;
+	position: relative;
+}
+ul.menu-h-dd li{
+	width: 200px;
+	height: 23px;
+	float: left;
+	background-image: url("fundo.gif");
+	text-align: center;
+}
+ul.menu-h-dd li a{
+	text-decoration: none;
+	color: #fff;
+}
+ul.menu-h-dd li ul{
+	position: absolute;
+	list-style: none;
+	display: none;
+	width: 250px;
+}
+ul.menu-h-dd li:hover ul{
+	display: block;
+
+}
+img.logo{
+	width: 200px;
+	height: 153px;
+	float: right;
+}
+img.foto{
+	width: 20px;
+}
+img.fundoum{
+	width: 200px;
+	height: 20px;
+}
+p{
+	text-align: justify;
+	padding: 10px;
+	color: #444;
+	font-family: Arial;
+
+}
+div.Um h1{
+	position: absolute;
+	top: 150px;
+	left: 540px;
+}
+
+div.Cinco p{
+	top: 0px;
+	left: 10px;
+	text-align: center;
+}
+a.E{
+	background-image: url("botao-1.gif");
+	font-family: Arial;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 14px;
+	padding: 6px;
+	background-position: center;
+	position: relative;
+	left: 425px;
+
+}
+p.Azul{
+	color: #0099cc;
+}
+p.verde{
+	color: #79C73C;
+
+}
+b.preto{
+	color: #000000;
+}
+span.preto{
+	color: #79C73C;
+}
+p.primeiroparagrafo{
+	color: #79C73C;
+
+}
+
+a.botaoazul{
+	background-image: url("botao-2.gif");
+	font-family: Arial;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-position: center;
+	position: relative;
+	font-size: 14px;
+	left: 8px;
+	top: 0px;
+}
+
+li.frente{
+	font-family: Arial;
+	position: relative;
+	font-size: 15px;
+	left: 30px;
+	color: #000;
+
+}
+div.rodape p{
+	text-align: justify;
+	padding: 10px;
+	color: #FFFFFF;
+	font-family: Arial;
+	text-align: center;
+	color: #fff;
+	
+
+}
